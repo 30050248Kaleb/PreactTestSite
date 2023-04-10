@@ -10,26 +10,26 @@ const Home = () => {
 
     const posts = postsJson.filter(
         (post) => post.username === 
-        currentUser.username || currentUser.friends.includes(post.username))
+        currentUser.username || currentUser.friends.includes(post.username)).reverse()
         .map((post) => (
         <Post post={post} />
       ));
 
 	return (
 		<div>
-            <h3 class="display-4">Preact</h3>
+            <h3 class="display-4">Home</h3>
             <div>
 			    <form>
-                <div class="form-group">
+                <div class="input-group">
                     <textarea
                     class="form-control"
                     rows="1"
                     placeholder="What's happening?"
                     ></textarea>
-                </div>
-                <button type="button" class="btn btn-primary">
-                    Tweet
+                    <button type="button" class="btn btn-primary">
+                    Post
                 </button>
+                </div>
                 </form>
 			    <hr />
 			    <div class="center">

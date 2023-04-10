@@ -5,9 +5,9 @@
         "lastname": "Doe",
         "profilepic": "https://img.freepik.com/free-vector/colored-hacker-code-realistic-composition-with-person-creates-codes-hacking-stealing-information-vector-illustration_1284-18005.jpg",
         "friends": [
-          "nachocheese",
-          "unicornprincess",
-          "captainawesome"]
+            "nachocheese",
+            "unicornprincess",
+            "captainawesome"]
       },
       {
         "username": "puppylover",
@@ -15,9 +15,9 @@
         "lastname": "Doe",
         "profilepic": "https://media.4-paws.org/1/e/d/6/1ed6da75afe37d82757142dc7c6633a532f53a7d/VIER%20PFOTEN_2019-03-15_001-2886x1999-1920x1330.jpg",
         "friends": [
-          "nachocheese",
-          "unicornprincess",
-          "captainawesome"]
+            "nachocheese",
+            "unicornprincess",
+            "captainawesome"]
       },
       {
         "username": "nachocheese",
@@ -25,8 +25,9 @@
         "lastname": "Smith",
         "profilepic": "https://www.thecookierookie.com/wp-content/uploads/2022/05/nacho-cheese-recipe-3.jpg",
         "friends": [
-          "puppylover",
-          "captainawesome"]
+            "hacker_420",
+            "puppylover",
+            "captainawesome"]
       },
       {
         "username": "unicornprincess",
@@ -34,18 +35,19 @@
         "lastname": "Jones",
         "profilepic": "https://t3.ftcdn.net/jpg/04/45/58/16/360_F_445581621_9epq1ojXWQ1TlNi2m0yH2q5e7G6ncbIn.jpg",
         "friends": [
-          "puppylover",
-          "captainawesome"]
+            "hacker_420",
+            "puppylover",
+            "captainawesome"]
       },
       {
         "username": "captainawesome",
         "firstname": "Michael",
         "lastname": "Lee",
-        "profilepic": "https://iheartcraftythings.com/wp-content/uploads/2021/06/Superhero-8.jpg",
+        "profilepic": "https://assets3.cbsnewsstatic.com/hub/i/2022/08/08/ec046c71-3643-41c1-a44e-9ef3dca8890a/sh-08188-r.jpg",
         "friends": [
-          "puppylover",
-          "nachocheese",
-          "hacker_420",
-          "unicornprincess"]
+            "puppylover",
+            "nachocheese",
+            "hacker_420",
+            "unicornprincess"]
       }
     ]

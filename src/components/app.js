@@ -1,8 +1,6 @@
 import { h } from 'preact';
 import { Router } from 'preact-router';
 
-import '../style/index.css';
-
 import Header from './header';
 import Sidebar from './sidebar';
 
@@ -21,7 +19,6 @@ const App = () => (
 				<main class="container-fluid">
 					<Router>
 						<Home path="/" />
-						<Profile path="/profile/" user="me" />
 						<Profile path="/profile/:user" />
 					</Router>
 				</main>
